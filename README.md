@@ -1,2 +1,2 @@
 # inflecta.github.io
-Corporate Website for inflecta.ai
+Coming soon website for inflecta.ai
